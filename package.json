@@ -1,6 +1,6 @@
 {
   "name": "console-suppressor",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A console suppressor for your production apps works across all major Javascript and Typescript frameworks.",
   "main": "dist/index.js",
   "scripts": {
