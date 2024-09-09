@@ -1,0 +1,45 @@
+{
+  "name": "console-suppressor",
+  "version": "1.0.0",
+  "description": "A console suppressor for your production apps works across all major Javascript and Typescript frameworks.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalinfinity/console-supressor.git"
+  },
+  "keywords": [
+    "console",
+    "suppress",
+    "logging",
+    "debugging",
+    "production",
+    "javascript",
+    "typescript",
+    "npm",
+    "log",
+    "error",
+    "warn",
+    "info",
+    "node",
+    "web",
+    "frameworks",
+    "react",
+    "vue",
+    "angular",
+    "nextjs",
+    "remix"
+  ],
+  "author": "Faisal Mujtaba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faisalinfinity/console-supressor/issues"
+  },
+  "homepage": "https://github.com/faisalinfinity/console-supressor#readme",
+  "devDependencies": {
+    "@types/node": "^22.5.4"
+  }
+}
